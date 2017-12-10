@@ -1,2 +1,4 @@
-![1](ht https://vk.com/photo88575710_456240862)
+![](https://pp.userapi.com/c824501/v824501067/4d2c3/8v-wmbnUyds.jpg
+)
+
 
