@@ -1,4 +1,4 @@
-# лаболаторная 2 #
+# лаболаторные 3, 4 #
 ![](https://pp.userapi.com/c639524/v639524470/66730/9gsO7NDn-9Q.jpg)
 ![](https://pp.userapi.com/c639524/v639524470/66737/FsTgP0kH5JA.jpg)
 ![](https://pp.userapi.com/c639524/v639524470/6673e/hgMFWj7JtaY.jpg)
@@ -8,7 +8,10 @@
 ![](https://pp.userapi.com/c639524/v639524470/6675a/lVQqnlUWIjk.jpg)
 ![](https://pp.userapi.com/c639524/v639524470/66763/97qVctb_Wc4.jpg)
 работающую топология https://github.com/DariaSS/opisanie/blob/master/documents/cisco.pkt
-# лаболаторная 1 #
+
+проверьте, пожалуйста, лаб.2, т.к. перепутала ссылку на файл в отчете
+![](https://pp.userapi.com/c830409/v830409121/e40b/lH_1SFxzrec.jpg)
+# лаболаторная 2 #
 ![](https://pp.userapi.com/c639524/v639524014/61c82/UGfnPaDQe8o.jpg)
 Утилита tracert использует протокол ICMP. Сетевой (3) уровень модели OSI.
 ![](https://pp.userapi.com/c639524/v639524014/61cab/iqS3-DYNu1k.jpg)
